@@ -1,0 +1,11 @@
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\bin\Debug\netcoreapp2.2\Adventure Time.deps.json
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\bin\Debug\netcoreapp2.2\Adventure Time.runtimeconfig.json
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\bin\Debug\netcoreapp2.2\Adventure Time.runtimeconfig.dev.json
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\bin\Debug\netcoreapp2.2\Adventure Time.dll
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\bin\Debug\netcoreapp2.2\Adventure Time.pdb
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\obj\Debug\netcoreapp2.2\Adventure Time.csprojAssemblyReference.cache
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\obj\Debug\netcoreapp2.2\Adventure Time.csproj.CoreCompileInputs.cache
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\obj\Debug\netcoreapp2.2\Adventure Time.AssemblyInfoInputs.cache
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\obj\Debug\netcoreapp2.2\Adventure Time.AssemblyInfo.cs
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\obj\Debug\netcoreapp2.2\Adventure Time.dll
+C:\Users\Keith Summers\source\repos\Adventure Time\Adventure Time\obj\Debug\netcoreapp2.2\Adventure Time.pdb
